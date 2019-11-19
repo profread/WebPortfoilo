@@ -1,0 +1,48 @@
+/* Css file to CV */
+img {
+    float: right;
+
+}
+header {
+    float: left;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+    margin: 0px 400px 0px 100px;
+
+}
+/*h1 {
+    font-size: 16px
+} */
+
+/*h3 { 
+    font-size: 12px;
+} */
+
+.header-link{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+
+}
+.header-link :hover {
+    color: red;
+    transition-duration: 0.5s;
+}
+
+
+.content {
+    margin:  0px 400px 100px 100px;
+    float: left;
+    display: block;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.content-body {
+
+}
+
+.content-head{
+
+
+}
